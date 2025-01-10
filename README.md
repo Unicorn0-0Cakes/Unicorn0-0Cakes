@@ -52,8 +52,9 @@ Feel free to explore my repositories and reach out! Whether you’re interested 
 ---
 
 ## 💁🏼‍♀️ Stay Connected:
-- **Twitter/X**: [@Unicorn0_0Cakes](https://twitter.com/Unicorn0_0Cakes)
-- **YouTube**: [Timeline Tinkering](https://youtube.com/@timelinetinkering?si=PppFgkV8Qqe4Vejz)
+- **Twitter/X**: [@Unicorn0_0Cake](https://twitter.com/Unicorn0_0Cake)
+- **YouTube**: [Unicorn0_0Cakes Studio](https://youtube.com/@unicorn0_0cakes)
+  
 - **Roblox**: Unicorn0_0Cakes
 
 Let's turn sparks into shining ideas. Welcome to the Glimmer Foundry! ✨
