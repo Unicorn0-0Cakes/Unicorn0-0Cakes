@@ -39,10 +39,57 @@ Leveraging neural networks and algorithms to improve world-building, NPC interac
 
 ---
 
-## 🛠️ Tools & Tech:
-- **Languages**: Lua, Python, JavaScript, C++
-- **Platforms**: Roblox Studio, GitHub, YouTube, X
-- **Design**: Figma, Canva, Blender, CapCut
+## 🛠️ **Tools & Tech (Expanded)**  
+
+### **📚 Languages:**
+- **Lua** (Roblox scripting)
+- **Python** (AI, data processing, automation)
+- **JavaScript** (front-end scripting, web tools)
+- **C++** (game development concepts)
+- **Markdown** (for GitHub documentation)
+- **SQL** (data handling)
+- **HTML/CSS** (basic web formatting)
+
+### **🌐 Platforms:**
+- **Roblox Studio** (game development, scripting)
+- **GitHub** (repositories, version control)
+- **YouTube** (content creation, devlogs)
+- **X (Twitter)** (community engagement, marketing)
+- **Discord** (community building, client collaboration)
+- **Lulu** (book publishing)
+- **Google Workspace** (Docs, Sheets, Calendar for project organization)
+
+### **🤖 AI & Data Tools:**
+- **ChatGPT/AI Assistants** (daily collaboration, idea generation, code assistance)
+- **Google Colab** (cloud-based notebooks for Python and AI projects)
+- **Jupyter Notebooks** (data science, AI projects)
+- **Pandas** (data analysis)
+- **NumPy** (numerical computing)
+- **Scikit-Learn** (machine learning)
+- **t-SNE** (dimensionality reduction for AI)
+- **PCA** (Principal Component Analysis)
+- **Matplotlib** (data visualization)
+
+### **🎨 Design & Creative Tools:**
+- **Canva** (quick designs, marketing assets)
+- **Blender** (3D modeling)
+- **CapCut** (video editing)
+- **Adobe Spark** (graphic design)
+
+### **🧪 Experimentation Tools:**
+- **Unity** (for future 3D game development)
+- **Unreal Engine** (considering for expansion)
+- **Stable Diffusion** (art generation)
+
+### **💻 Development Tools:**
+- **Visual Studio Code** (coding)
+- **Git** (version control)
+- **Python Scripts** (automation, data processing)
+- **Lua Scripts** (Roblox game scripts)
+- **Markdown** (for documentation)
+
+### **🖨️ 3D Printing & Physical Tools:**
+- **3D Printers** (for creating models and prototypes)
 
 ---
 
