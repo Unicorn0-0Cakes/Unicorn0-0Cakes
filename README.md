@@ -1,115 +1,57 @@
-# Welcome to the Glimmer Foundry! 🌟✨
+# 👋 Hello, I'm Candice Cantrelle
 
-## Hey there, I'm Unicorn0_0Cakes! 🦄
-I'm Candice, a passionate Roblox developer, creative mind, and perpetual tinkerer. Welcome to my digital workshop where creativity meets code. This GitHub profile is a showcase of my projects, ideas, and experiments in game development, AI integration, and UI/UX design – all with a splash of whimsy. 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2D2D2D?style=for-the-badge&logo=openai&logoColor=white)
+![Game Developer](https://img.shields.io/badge/Game%20Dev-3E3E3E?style=for-the-badge&logo=roblox&logoColor=white)
+![Creative Technologist](https://img.shields.io/badge/Creative%20Technologist-4B4453?style=for-the-badge)
+![Human-Centered Design](https://img.shields.io/badge/Human--Centered%20UX%20Design-44475a?style=for-the-badge)
+![Vibe Coding](https://img.shields.io/badge/Vibe--Coded✨-5A5A5A?style=for-the-badge)
+
+
+I'm a Machine Learning Engineer and Game Developer specializing in neural networks, procedural generation, and UX design. I create immersive AI-driven simulations and engaging Roblox games that push the boundaries of interactive experiences.
+
+## 🧠 Core Tech Stack
+
+![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-353535?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-3B3B3B?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-474747?style=for-the-badge&logo=googlecolab&logoColor=F9AB00)
+![VS Code](https://img.shields.io/badge/VS%20Code-2C2C2C?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Git](https://img.shields.io/badge/Git-24292E?style=for-the-badge&logo=git&logoColor=F05032)
+
+## 📊 Data & Analysis
+
+![Data Science](https://img.shields.io/badge/Data%20Science-2F4F4F?style=for-the-badge&logo=dataiku&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-3A3A3A?style=for-the-badge&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-312C38?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-3D3D3D?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-282828?style=for-the-badge&logo=python&logoColor=white)
+
+## 🤖 AI & Computer Vision
+
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-3F3F3F?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-4B4453?style=for-the-badge)
+![Facial Recognition](https://img.shields.io/badge/Facial%20Emotion%20AI-5A5A5A?style=for-the-badge)
+![Simulation Design](https://img.shields.io/badge/AI--Driven%20Simulations-2E8B57?style=for-the-badge)
+
+## 🎓 Certifications
+
+![MIT Certified](https://img.shields.io/badge/MIT--AI%20&%20Data%20Science-6C63FF?style=for-the-badge)
+![IBM AI](https://img.shields.io/badge/IBM--AI%20Engineer-3C3C3C?style=for-the-badge&logo=ibm&logoColor=white)
+![IBM Full Stack](https://img.shields.io/badge/IBM--Full%20Stack%20Cloud-555555?style=for-the-badge&logo=ibm)
+![Google Certified](https://img.shields.io/badge/Google--Data%20Analytics-999999?style=for-the-badge&logo=google&logoColor=white)
+![HP Game Dev](https://img.shields.io/badge/HP--Game%20Development-3B3B3B?style=for-the-badge)
+
+
+## 📬 Let’s Connect
+
+[![Website](https://img.shields.io/badge/Website-candicecantrelle.com-2b2b2b?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://candicecantrelle.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CandiceCantrelle-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/candice-cantrelle)
+
 
 ---
 
-## 🤖 My Focus Areas:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Unicorn0-0Cakes&show_icons=true&theme=github_dark)
+<br>
+![Profile Views](https://komarev.com/ghpvc/?username=Unicorn0-0Cakes&style=flat-square&color=gray)
+![GitHub followers](https://img.shields.io/github/followers/Unicorn0-0Cakes?label=Follow&style=social)
 
-### 💡 Game Development:
-Crafting immersive Roblox experiences with Lo-Fi aesthetics, horror vibes, and addictive gameplay loops.
-
-### 📢 Community & Collaboration:
-Building connections with other developers and sharing insights to help the Roblox dev community thrive.
-
-### 📊 Data-Driven Design:
-Leveraging neural networks and algorithms to improve world-building, NPC interactions, and player engagement.
-
----
-
-## 🚀 Current Projects:
-- **Glimmer Foundry**: My Roblox development group where ideas spark into reality.
-- **Chatbot Archive Database**: A repository for preserving and visualizing conversations with chatbots.
-- **UI Design Experiments**: Crafting and testing user interfaces to create smooth and delightful player experiences.
-
----
-
-## 🛹 Roadmap for 2025:
-- [ ] Launch a new Roblox game using my 100 block time method.
-- [ ] Build a chatbot archive visualization tool.
-- [ ] Expand the Glimmer Foundry with community-driven projects.
-- [ ] Develop a high-protein meal planning app tailored for gamers and developers.
-- [ ] Complete my first solo electric unicycle challenge video.
-- [ ] Publish a guide on using neural networks to enhance game storytelling.
-- [ ] Create a modular UI kit for Roblox developers and release it on GitHub.
-- [ ] Release a series of devlogs documenting my journey in game development.
-- [ ] Start offering UI/UX design consultations for fellow Roblox creators.
-- [ ] Collaborate with other developers to build a community horror game.
-
----
-
-## 🛠️ **Tools & Tech (Expanded)**  
-
-### **📚 Languages:**
-- **Lua** (Roblox scripting)
-- **Python** (AI, data processing, automation)
-- **JavaScript** (front-end scripting, web tools)
-- **C++** (game development concepts)
-- **Markdown** (for GitHub documentation)
-- **SQL** (data handling)
-- **HTML/CSS** (basic web formatting)
-
-### **🌐 Platforms:**
-- **Roblox Studio** (game development, scripting)
-- **GitHub** (repositories, version control)
-- **YouTube** (content creation, devlogs)
-- **X (Twitter)** (community engagement, marketing)
-- **Discord** (community building, client collaboration)
-- **Lulu** (book publishing)
-- **Google Workspace** (Docs, Sheets, Calendar for project organization)
-
-### **🤖 AI & Data Tools:**
-- **ChatGPT/AI Assistants** (daily collaboration, idea generation, code assistance)
-- **Google Colab** (cloud-based notebooks for Python and AI projects)
-- **Jupyter Notebooks** (data science, AI projects)
-- **Pandas** (data analysis)
-- **NumPy** (numerical computing)
-- **Scikit-Learn** (machine learning)
-- **t-SNE** (dimensionality reduction for AI)
-- **PCA** (Principal Component Analysis)
-- **Matplotlib** (data visualization)
-
-### **🎨 Design & Creative Tools:**
-- **Canva** (quick designs, marketing assets)
-- **Blender** (3D modeling)
-- **CapCut** (video editing)
-- **Adobe Spark** (graphic design)
-
-### **🧪 Experimentation Tools:**
-- **Unity** (for future 3D game development)
-- **Unreal Engine** (considering for expansion)
-- **Stable Diffusion** (art generation)
-
-### **💻 Development Tools:**
-- **Visual Studio Code** (coding)
-- **Git** (version control)
-- **Python Scripts** (automation, data processing)
-- **Lua Scripts** (Roblox game scripts)
-- **Markdown** (for documentation)
-
-### **🖨️ 3D Printing & Physical Tools:**
-- **3D Printers** (for creating models and prototypes)
-
----
-
-## 🔎 Want to Collaborate?
-Feel free to explore my repositories and reach out! Whether you’re interested in game dev collabs, UI design commissions, or just want to chat about code, I'm always up for it.
-
----
-
-## 💁🏼‍♀️ Stay Connected:
-- **Twitter/X**: [@Unicorn0_0Cake](https://twitter.com/Unicorn0_0Cake)
-- **YouTube**: [Unicorn0_0Cakes Studio](https://youtube.com/@unicorn0_0cakes)
-  
-- **Roblox**: Unicorn0_0Cakes
-
-Let's turn sparks into shining ideas. Welcome to the Glimmer Foundry! ✨
-
-
-- ⚡ Fun fact: ...
-
-<!---
-Unicorn0-0Cakes/Unicorn0-0Cakes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
