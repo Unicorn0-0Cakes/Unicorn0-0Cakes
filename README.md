@@ -45,7 +45,6 @@ I'm a Machine Learning Engineer and Game Developer specializing in neural networ
 ## 📬 Let’s Connect
 
 [![Website](https://img.shields.io/badge/Website-candicecantrelle.com-2b2b2b?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://candicecantrelle.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CandiceCantrelle-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/candice-cantrelle)
 
 
 ---
