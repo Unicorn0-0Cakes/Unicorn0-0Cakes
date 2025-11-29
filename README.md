@@ -50,7 +50,7 @@ I'm a Machine Learning Engineer and Game Developer specializing in neural networ
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Unicorn0-0Cakes&show_icons=true&theme=github_dark)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Unicorn0-0Cakes?cardType=level-alternate&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 <br>
 ![Profile Views](https://komarev.com/ghpvc/?username=Unicorn0-0Cakes&style=flat-square&color=gray)
 ![GitHub followers](https://img.shields.io/github/followers/Unicorn0-0Cakes?label=Follow&style=social)
