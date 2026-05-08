@@ -4,7 +4,6 @@
 ![Game Developer](https://img.shields.io/badge/Game%20Dev-3E3E3E?style=for-the-badge&logo=roblox&logoColor=white)
 ![Creative Technologist](https://img.shields.io/badge/Creative%20Technologist-4B4453?style=for-the-badge)
 ![Human-Centered Design](https://img.shields.io/badge/Human--Centered%20UX%20Design-44475a?style=for-the-badge)
-![Vibe Coding](https://img.shields.io/badge/Vibe--Coded✨-5A5A5A?style=for-the-badge)
 
 
 I'm a Machine Learning Engineer and Game Developer specializing in neural networks, procedural generation, and UX design. I create immersive AI-driven simulations and engaging Roblox games that push the boundaries of interactive experiences.
