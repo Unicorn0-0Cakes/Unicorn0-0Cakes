@@ -78,7 +78,7 @@ Currently focused on:
 
 Credential verification:
 
-[![Credly](https://img.shields.io/badge/Credly-Verified%20Credentials-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/candice-cantrelle/badges)
+[![Credly](https://img.shields.io/badge/Credly-Verified%20Credentials-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/candice_c)
 
 ---
 
