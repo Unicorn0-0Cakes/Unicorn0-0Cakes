@@ -13,7 +13,7 @@ My background includes AI/ML experimentation, data analysis, workflow automation
 - CEH preparation
 - Penetration testing fundamentals
 - Ethical hacking labs
-- Linux command-line practice
+- Linux-first development and operational environments
 - Web application security
 - Vulnerability documentation
 - Security reporting workflows
