@@ -1,112 +1,88 @@
-# Hi, I'm Candice 👋
+# Candice Cantrelle
 
-Cybersecurity learner and systems builder focused on ethical hacking, penetration testing fundamentals, AI-assisted workflows, automation, and technical documentation.
+**Applied AI & Data Analyst | AI Safety & Alignment | Python | Safety-Critical Systems**
 
-I am currently building a cybersecurity portfolio around CEH preparation, penetration testing labs, Linux fundamentals, web application security, and structured security reporting.
+I work at the intersection of applied AI, data analysis, operational risk, and technical documentation.
 
-My background includes AI/ML experimentation, data analysis, workflow automation, creative technical projects, and operations-focused problem solving.
+In my current role, I support safety-critical maritime operations across a fleet of more than 260 offshore vessels. I evaluate incomplete and rapidly changing technical information, identify discrepancies and elevated-risk conditions, document findings, and help translate live operational data into traceable decisions.
+
+I am now focusing that experience toward **AI Safety & Alignment**, especially empirical work on how advanced AI systems behave, fail, and respond under uncertainty, conflicting instructions, and adversarial pressure.
 
 ---
 
 ## Current Direction
 
-- CEH preparation
-- Penetration testing fundamentals
-- Ethical hacking labs
-- Linux-first development and operational environments
-- Web application security
-- Vulnerability documentation
-- Security reporting workflows
-- Automation and AI-assisted technical systems
+- AI safety and alignment
+- Model behavior evaluation
+- Robustness and failure analysis
+- Human oversight of automated systems
+- Reproducible machine-learning experiments
+- Clear documentation of methods, limitations, and results
+- Safety-conscious workflow and evaluation design
 
 ---
 
-## Cybersecurity Lab Portfolio
+## Technical Foundation
 
-| Repository | Focus | Status |
-|---|---|---|
-| `cybersecurity-lab-index` | Master roadmap for cybersecurity labs, resources, and progress tracking | Building |
-| `tryhackme-labs` | Guided lab notes for networking, Linux, web security, and pentesting basics | Building |
-| `cybersecurity-cheatsheets` | Quick-reference notes for Linux, Nmap, Burp Suite, Wireshark, and web vulnerabilities | Building |
-| `portswigger-web-security` | Web Security Academy notes for SQL injection, XSS, authentication, and access control | Planned |
-| `overthewire-bandit-notes` | Linux command-line practice through OverTheWire Bandit | Planned |
-| `owasp-juice-shop-lab` | Vulnerable web app testing, findings, screenshots, and report practice | Planned |
-| `pentest-report-templates` | Executive summaries, technical findings, remediation notes, and reporting practice | Planned |
+### Programming and Data
+Python · SQL · Pandas · NumPy · Matplotlib · Jupyter · Git/GitHub
 
-> All cybersecurity work documented here is based on legal training environments, CTFs, intentionally vulnerable applications, and self-contained lab systems.
+### Machine Learning
+PyTorch · scikit-learn · Transformers · Computer Vision · Model Evaluation · MLflow
+
+### Systems and Automation
+APIs · OAuth · Workflow Automation · Data Validation · Technical Documentation · Structured Reporting
 
 ---
 
-## Technical Skills I’m Building
+## Selected Work
 
-### Security & Infrastructure
+### Multimodal Archaeological Site Detection Framework
+A conceptual research prototype exploring a three-stage computer-vision pipeline for wide-area detection, semantic segmentation, and multimodal site characterization.
 
-![Linux](https://img.shields.io/badge/Linux-2D2D2D?style=for-the-badge&logo=linux&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-3E3E3E?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-4B4453?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-44475a?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-5A5A5A?style=for-the-badge&logo=burpsuite&logoColor=white)
+The repository documents proposed model architecture, configuration management, preprocessing workflows, experiment tracking, model cards, and pipeline orchestration. Training and evaluation components are being developed and should not yet be interpreted as validated model performance.
 
-### Programming, Automation & Documentation
+### AI Safety Evaluations
+I am building small, reproducible evaluations focused on model behavior, instruction following, robustness, failure modes, and the distinction between apparent capability and reliable behavior.
 
-![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-24292E?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-2D2D2D?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-3A3A3A?style=for-the-badge&logo=markdown&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-2C2C2C?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-
-### Data, AI & Analysis
-
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-2F4F4F?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-312C38?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-3D3D3D?style=for-the-badge&logo=numpy&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2D2D2D?style=for-the-badge&logo=openai&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-44475a?style=for-the-badge)
+Results will include methodology, test cases, limitations, unsuccessful approaches, and documented conclusions.
 
 ---
 
-## Certification & Learning Focus
+## Research Interests
 
-Currently focused on:
+I am especially interested in:
 
-- Certified Ethical Hacker preparation
-- Penetration testing fundamentals
-- Practical lab documentation
-- Linux and networking foundations
-- Web application security
-- Security report writing
-
-Credential verification:
-
-[![Credly](https://img.shields.io/badge/Credly-Verified%20Credentials-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/candice_c)
+- Evaluating model behavior under ambiguity
+- Detecting inconsistencies and hidden failure modes
+- Understanding overconfidence and unreliable reasoning
+- Human oversight in safety-critical environments
+- Building evaluation systems that preserve traceability
+- Translating empirical findings into practical safety improvements
 
 ---
 
-## Featured Project Areas
+## Background
 
-| Area | What It Demonstrates |
-|---|---|
-| Cybersecurity Labs | Ethical lab practice, technical notes, vulnerability research habits, and reporting |
-| Automation Tools | Workflow design, scripting, operational thinking, and process improvement |
-| AI / ML Projects | Experimentation, modeling, analysis, and applied technical curiosity |
-| Data Analysis | Pattern recognition, structured thinking, and communication through evidence |
-| Documentation | Clear technical writing, reproducible notes, and organized learning systems |
+- Data Analyst supporting safety-critical maritime operations
+- MIT Professional Education, Applied Data Science
+- IBM AI Engineering and AI Developer professional training
+- Experience with workflow automation, technical reporting, operational risk, and cross-functional problem solving
 
 ---
 
-## What I’m Building Next
+## Working Principles
 
-- A structured CEH / pentesting study roadmap
-- TryHackMe and OverTheWire lab notes
-- Practical cybersecurity cheat sheets
-- Web security writeups using legal lab environments
-- Sample penetration testing report templates
-- A cleaner portfolio that connects cybersecurity, automation, AI, and operations
+- Distinguish implemented work from planned work
+- Report null and negative results honestly
+- Never present placeholder metrics as experimental findings
+- Protect employer, client, and sensitive operational information
+- Prefer reproducible evidence over impressive language
 
 ---
 
-## Privacy & Ethics Note
+## Contact
 
-I keep personal, employer, client, production, and sensitive infrastructure details out of public repositories.
-
-My cybersecurity work is limited to authorized labs, CTFs, training platforms, and intentionally vulnerable environments.
+- GitHub: [@Unicorn0-0Cakes](https://github.com/Unicorn0-0Cakes)
+- Email: [glowstick.2017@gmail.com](mailto:glowstick.2017@gmail.com)
+- Credentials: [Credly](https://www.credly.com/users/candice_c)
