@@ -1,13 +1,19 @@
 # Candice Cantrelle
 
-**Applied AI & Data Analyst | AI Safety & Alignment | Python | Safety-Critical Systems**
+I build applied AI, data, and automation projects that solve real problems.
 
-I work at the intersection of applied AI, data analysis, operational risk, and technical documentation.
+## Portfolio
+[Visit my portfolio](https://candicecantrelle.github.io)
 
-In my current role, I support safety-critical maritime operations across a fleet of more than 260 offshore vessels. I evaluate incomplete and rapidly changing technical information, identify discrepancies and elevated-risk conditions, document findings, and help translate live operational data into traceable decisions.
+## Focus
+- Applied AI
+- Data analysis and visualization
+- Automation workflows
+- AI safety and evaluation
+- Python projects
 
-I am now focusing that experience toward **AI Safety & Alignment**, especially empirical work on how advanced AI systems behave, fail, and respond under uncertainty, conflicting instructions, and adversarial pressure.
-
+## About
+I work across AI, data, automation, and technical problem-solving. My portfolio highlights projects, experiments, and practical work that connect research, engineering, and real-world use.
 ---
 
 ## Current Direction
