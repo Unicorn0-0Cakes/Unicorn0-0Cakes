@@ -2,7 +2,7 @@
 
 I build applied AI, data, and automation projects that solve real problems.
 
-[Portfolio](https://unicorn0-0cakes.github.io/candicecantrelle.github.io/)
+[**Portfolio →**](https://unicorn0-0cakes.github.io/) · Software · AI/ML · Scientific simulation · Systems design
 
 ## Focus
 - Applied AI
